@@ -1,4 +1,4 @@
-# Lishaduck Formulae
+# Eli’s Formulæ
 
 ## How do I install these formulae?
 
